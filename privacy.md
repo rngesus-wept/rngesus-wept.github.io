@@ -2,7 +2,7 @@
 
 *Last Updated November 5, 2017.*
 
-This page contains technical and logistical details for the BattleCON Spreadsheet System (henceforth "System"), available at http://bit.ly/BaCON-Sheet. The System is operated and maintained by `rngesus-wept@gmail.com`. It is built on top of Google Sheets; any use of the System also implicitly acknowledges the Terms and Conditions et cetera of Google Sheets.
+This page contains technical and logistical details for the BattleCON Spreadsheet System (henceforth "System"), available at http://bit.ly/BaCON-Sheet. The System is operated and maintained by `rngesus-wept (admin@rngesus.net)`. It is built on top of Google Sheets; any use of the System also implicitly acknowledges the Terms and Conditions et cetera of Google Sheets.
 
 The purpose of the System is to provide a structured implementation of the BattleCON Fighting System in Google Sheets. The vast majority of what it does is fancy text manipulation.
 
