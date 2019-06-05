@@ -1,6 +1,6 @@
 # BattleCON Spreadsheets
 
-*Last Updated November 5, 2017.*
+*Last Updated June 5, 2019.*
 
 This page contains technical and logistical details for the BattleCON Spreadsheet System (henceforth "System"), available at [http://bit.ly/BaCON-Sheet](http://bit.ly/BaCON-Sheet). The System is operated and maintained by `rngesus-wept (admin@rngesus.net)`. It is built on top of Google Sheets; any use of the System also implicitly acknowledges the Terms and Conditions et cetera of Google Sheets.
 
@@ -12,6 +12,8 @@ At a high level the System comprises two spreadsheet documents, each bearing its
   * Apps Script Code duplicated from the System Template.
 
 The System Template Code facilitates the manipulation of the structured data in the System Template and the copied structured data from the System Core.
+
+Our guarantees of security and privacy only apply to the System Core and the *original copy* of the System Template. However, the Match Sheet is merely a copy of the System Template which is not under the maintainers' ownership; the actual owner of that document may make modifications to its scripting at their discretion, which we cannot vouch for.
 
 ## Privacy Policy
 
